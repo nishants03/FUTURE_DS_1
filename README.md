@@ -1,6 +1,6 @@
 # Marketing Performance Dashboard
 
-This README provides an overview of the marketing analytics dashboard visualized in `TASK 2.png`.
+This README provides an overview of the marketing analytics dashboard visualized in `TASK 1.png`.
 
 ## 📊 Key Metrics Summary
 - **155.23K** — Total TV
